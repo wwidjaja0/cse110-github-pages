@@ -56,6 +56,7 @@ who_am_i()
 
 ### [Part 3. Using Markdown](https://canvas.ucsd.edu/courses/64571/assignments/952033#:~:text=Part%203.%20Using%20Markdown)
 
+- [x] Added a line about my favorite programming language in [`README.md`](/README.md).
 - [x] Created a new `index.md` file under `/index.md`.
 
 For this assignment, my page includes the following:
