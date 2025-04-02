@@ -1,2 +1,3 @@
-# cse110-github-pages
- GitHub repository for my CSE 110 GitHub Pages project.
+# William Widjaja's User Page
+
+GitHub repository for my CSE 110 GitHub Pages project.
