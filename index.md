@@ -57,11 +57,11 @@ who_am_i()
 ### [Part 3. Using Markdown](https://canvas.ucsd.edu/courses/64571/assignments/952033#:~:text=Part%203.%20Using%20Markdown)
 
 - [x] Added a line about my favorite programming language in [`README.md`](/README.md).
-- [x] Created a new `index.md` file under `/index.md`.
+- [x] Created a new `index.md` file under [`/index.md`](/index.md).
 
 For this assignment, my page includes the following:
 
-- [x] Pictures
+- [x] [Pictures](/screenshots/)
 - All the core Markdown constructs in [GitHub Flavored Markdown](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax).
 
   - [x] Headings
