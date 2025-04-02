@@ -13,7 +13,7 @@ who_am_i()
 - Seventh College
 - Indonesian-American
 - I mainly enjoy coding in **Python** and **Javascript**.
-- [My LinkedIn](https://www.google.com/) | [My GitHub](https://github.com/wwidjaja0/) | [My Website](https://wwidjaja.site/)
+- [My LinkedIn](https://www.linkedin.com/in/wwidjaja0/) | [My GitHub](https://github.com/wwidjaja0/) | [My Website](https://wwidjaja.site/)
 
 ## Table of Contents
 
